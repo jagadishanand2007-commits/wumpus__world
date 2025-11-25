@@ -1,6 +1,6 @@
 <h1>ExpNo 9: Solve Wumpus World Problem using Python demonstrating Inferences from Propositional Logic</h1> 
-<h3>Name: ABINAV KUMAR R                      </h3>
-<h3>Register Number:212224210001                </h3>
+<h3>Name: Jagadish Janardhanan A            </h3>
+<h3>Register Number:212224060102            </h3>
 <H3>Aim:</H3>
 <p>
     To solve  Wumpus World Problem using Python demonstrating Inferences from Propositional Logic
